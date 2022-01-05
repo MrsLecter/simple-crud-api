@@ -1,10 +1,7 @@
 [
-    {
-      "name": "John",
-      "skills": ["SQL", "C#", "Azure"]
-    },
-    {
-      "name": "Jane",
-      "surname": "Doe"
-    }
-  ]
+  {
+    "id": "25",
+    "name": "John",
+    "age": "23"
+  }
+]
